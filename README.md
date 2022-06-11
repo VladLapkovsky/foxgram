@@ -1,3 +1,5 @@
 # Foxgram. 
 
-Front-End project by intellectfox marathon.
+Simple Front-End project.
+
+Used technologies: HTML, CSS, JavaScript.
